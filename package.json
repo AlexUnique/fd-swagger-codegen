@@ -1,0 +1,15 @@
+{
+  "name": "fd-swagger-codegen",
+  "version": "0.0.1",
+  "description": "Generate code from Swagger specs file.",
+  "bin": {
+    "fd-swagger-codegen": "./index.js"
+  },
+  "author": "Alex Kalinichenko",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "node-yaml": "^3.0.3",
+  }
+}
